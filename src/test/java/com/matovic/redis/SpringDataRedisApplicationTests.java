@@ -1,4 +1,4 @@
-package com.matovic.springdataredis;
+package com.matovic.redis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

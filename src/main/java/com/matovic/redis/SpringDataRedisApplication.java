@@ -1,4 +1,4 @@
-package com.matovic.springdataredis;
+package com.matovic.redis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
